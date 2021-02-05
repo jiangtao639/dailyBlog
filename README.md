@@ -1,0 +1,2 @@
+# dailyBlog
+Record your life!
